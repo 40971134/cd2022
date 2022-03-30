@@ -2,7 +2,7 @@ Title: About
 
 ## CMSimfly 內容管理網誌
 
-課程倉儲: <a href="https://github.com/mdecycu/cd2022_guide">https://github.com/mdecycu/cd2022_guide</a>
+課程倉儲: <a href="https://github.com/40971134/cd2022">https://github.com/40971134/cd2022</a>
 
 內容管理: <a href="https://40971134.github.io/cd2022/content/sitemap.html">https://40971134.github.io/cd2022/content/sitemap.html</a>
 
